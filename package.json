@@ -1,0 +1,32 @@
+{
+  "name": "node-entourage",
+  "version": "1.1.0",
+  "description": "Entourage API wrapper for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremie Zarca",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "qs": "^6.5.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarca01/node-entourage.git"
+  },
+  "keywords": [
+    "entourage",
+    "node",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/jzarca01/node-entourage/issues"
+  },
+  "homepage": "https://github.com/jzarca01/node-entourage#readme"
+}
