@@ -70,6 +70,6 @@ categoryId = {
   4: Freshen up = "Se rafraichir",
   5: Orientation = "S'orienter",
   6: Toileting = "S'occuper de soi",
-  7: Reinsertion = "Se reinserer)-
+  7: Reinsertion = "Se reinserer"
 }
 ```
