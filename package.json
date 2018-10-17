@@ -1,6 +1,6 @@
 {
   "name": "node-entourage",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Entourage API wrapper for Node.js",
   "main": "index.js",
   "scripts": {
