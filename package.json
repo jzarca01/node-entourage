@@ -1,6 +1,6 @@
 {
   "name": "node-entourage",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Entourage API wrapper for Node.js",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
+    "moment": "^2.22.2",
     "qs": "^6.5.2"
   },
   "directories": {
