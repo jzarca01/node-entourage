@@ -52,7 +52,6 @@ type = 'ask_for_help' | 'contribution'
 
 ```javascript
 entourage.sendParticipation(entourageId, distance, message)
-)
 ```
 
 ### Get Points of Interests
